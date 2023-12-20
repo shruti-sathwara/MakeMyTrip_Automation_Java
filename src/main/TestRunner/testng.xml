@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MakeMyTrip Automation Test Suite">
+
+    <!--	<listeners>-->
+    <!--		<listener class-name="aes.erp.ExtentReportListener.ExtentReporterNG"/>-->
+    <!--    </listeners>-->
+
+    <test name="MakeMyTrip Test Cases for Trading">
+        <classes>
+            <class name="Test.HomeScreenTest"></class>
+        </classes>
+    </test>
+</suite>
