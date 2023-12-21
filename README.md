@@ -6,7 +6,7 @@
 
 
 #Project 
-1) create "MakeMyTrip" project in IDE 
+1) createed "MakeMyTrip" project in IDE 
 2) added dependencies in POM.xml file 
 3) Created TestBase and TestUtils files to add common codes 
 4) Created Config.java file to add project configuration 
@@ -19,3 +19,6 @@
 #Git 
 1) create public Repository "MakeMyTrip_Automation_Java" in github
 2) commit and push code to github in "Master" branch
+
+#import this project to IDE
+1)In IDE --> go to File --> New--> project from version control--> enter Git Url--> click on next button
